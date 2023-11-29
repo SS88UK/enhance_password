@@ -1,0 +1,17 @@
+{
+    "name": "ss88/enhance_password",
+    "type": "roundcube-plugin",
+    "description": "Enable the ability for RoundCube users to change their email password for the Enhance Control Panel.",
+    "license": "GPL-3.0+",
+    "keywords": ["password","enhancecp", "enhance"],
+    "homepage": "https://github.com/SS88UK/enhance_password",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://plugins.roundcube.net"
+        }
+    ],
+    "require": {
+        "roundcube/plugin-installer": ">=0.1.6"
+    }
+}
